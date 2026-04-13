@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "anakkita",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "IQsadventure.aternos.me",
+    "ip": "kaluga.aternos.host",
     "port": 14008,
     "version": "",
     "try-creative": false
