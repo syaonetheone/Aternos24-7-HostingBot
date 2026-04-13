@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "IQsadventure.aternos.me",
+    "port": 14008,
     "version": "",
     "try-creative": false
   },
